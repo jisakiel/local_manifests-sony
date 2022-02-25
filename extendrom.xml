@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="sfX" fetch="https://github.com/sfX-Android/" />
+<project path="vendor/extendrom" name="android_vendor_extendrom" remote="sfX" revision="main" />
+
+</manifest>
